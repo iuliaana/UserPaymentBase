@@ -1,0 +1,16 @@
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\bin\Debug\GribovaPUB.exe.config
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\bin\Debug\GribovaPUB.exe
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\bin\Debug\GribovaPUB.pdb
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\MainWindow.g.cs
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\App.g.cs
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB_MarkupCompile.cache
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB_MarkupCompile.lref
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\MainWindow.baml
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.g.resources
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.Properties.Resources.resources
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.exe
+C:\Users\student\Source\Repos\GribovaPUB\GribovaPUB\obj\Debug\GribovaPUB.pdb
